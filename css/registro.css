@@ -80,13 +80,13 @@
   position: relative;
 }
 .input-box span{
-  display: block;
+  display: none;
   background-color: rgba(51,51,51,0.8);
   padding: 5px;
   position: absolute;
   left: 105%;
   top: 8px;
-  width: 200px;
+  width: 360px;
   color: white;
 }
 
